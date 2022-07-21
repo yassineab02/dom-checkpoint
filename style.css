@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/closeup-concrete-wall-texture-background_1017-24490.jpg?w=2000);
+}
+.boxs{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    flex-wrap: wrap;
+    
+}
+.informations{
+    padding-top: 30px;
+}
+.bottons{
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 700px;
+}
+.title{
+    margin-left: 30px;
+}
+.del{
+    margin-left: 60px;
+}
+.x:hover{
+    box-shadow: 5px 5px 5px 5px rgba(3, 3, 3, 0.555) 
+    
+}
+.x{
+    margin-top: 50px;
+}
+.som{
+    text-align: center;
+    font-size: 3em;
+}
